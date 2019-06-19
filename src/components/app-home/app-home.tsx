@@ -19,6 +19,7 @@ export class AppHome {
   }
 
   randomHex(): string {
+    // https://api.noopschallenge.com/hexbot
     const hexMax = 256 * 256 * 256;
     return (
       "#" +
