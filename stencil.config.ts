@@ -15,7 +15,7 @@ export const config: Config = {
     {
       type: "www",
       // comment the following line to disable service workers in production
-      dir: "docs",
+      dir: "gh-pages",
       serviceWorker: null,
       baseUrl: "https://myapp.local/"
     }
