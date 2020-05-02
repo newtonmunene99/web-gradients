@@ -5,7 +5,11 @@
 Decided to try and create something with [Hexbot](https://github.com/noops-challenge/hexbot).
 I'm not sure it qualifies as [#noopschallenge](https://noopschallenge.com/).
 
-Generates 1000 random css linear gradients.
+Generates 1000 random css linear gradients on every refresh.
+
+| Screenshot                                                                             |
+| -------------------------------------------------------------------------------------- |
+| <img src="https://github.com/newtonmunene99/web-gradients/blob/master/screenshot.png"> |
 
 #### Roadmap
 
